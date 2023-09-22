@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there 👋, my name is Said Belowahed
+### Hi there 👋, my name is Said Belowahed
 #### 👀 I’m interested in Computer science, IT, AI, and all cool stuff.
 ![👀 I’m interested in Computer science, IT, AI, and all cool stuff.](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
